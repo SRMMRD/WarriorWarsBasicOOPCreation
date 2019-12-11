@@ -1,0 +1,11 @@
+C:\Users\scott\Desktop\C# Projects\WarriorWars\WarriorWars\obj\Debug\netcoreapp3.0\WarriorWars.csprojAssemblyReference.cache
+C:\Users\scott\Desktop\C# Projects\WarriorWars\WarriorWars\obj\Debug\netcoreapp3.0\WarriorWars.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\C# Projects\WarriorWars\WarriorWars\obj\Debug\netcoreapp3.0\WarriorWars.AssemblyInfo.cs
+C:\Users\scott\Desktop\C# Projects\WarriorWars\WarriorWars\bin\Debug\netcoreapp3.0\WarriorWars.exe
+C:\Users\scott\Desktop\C# Projects\WarriorWars\WarriorWars\bin\Debug\netcoreapp3.0\WarriorWars.deps.json
+C:\Users\scott\Desktop\C# Projects\WarriorWars\WarriorWars\bin\Debug\netcoreapp3.0\WarriorWars.runtimeconfig.json
+C:\Users\scott\Desktop\C# Projects\WarriorWars\WarriorWars\bin\Debug\netcoreapp3.0\WarriorWars.runtimeconfig.dev.json
+C:\Users\scott\Desktop\C# Projects\WarriorWars\WarriorWars\bin\Debug\netcoreapp3.0\WarriorWars.dll
+C:\Users\scott\Desktop\C# Projects\WarriorWars\WarriorWars\bin\Debug\netcoreapp3.0\WarriorWars.pdb
+C:\Users\scott\Desktop\C# Projects\WarriorWars\WarriorWars\obj\Debug\netcoreapp3.0\WarriorWars.dll
+C:\Users\scott\Desktop\C# Projects\WarriorWars\WarriorWars\obj\Debug\netcoreapp3.0\WarriorWars.pdb
